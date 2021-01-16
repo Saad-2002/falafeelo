@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569260718720",
+    "firebase_url": "https://falafeelo-abcac.firebaseio.com",
+    "project_id": "falafeelo-abcac",
+    "storage_bucket": "falafeelo-abcac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569260718720:android:5d751539151fa61a0a0465",
+        "android_client_info": {
+          "package_name": "com.saad2002.falafeelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569260718720-rg6qf24tv3fmui13diqde9ritlnt7sas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKBb9MDTdfmjt-rweY80Ebw7xl-T96Dm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569260718720-rg6qf24tv3fmui13diqde9ritlnt7sas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
